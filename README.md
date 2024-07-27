@@ -1,4 +1,8 @@
 - 在load_pitch文件里调整你需要的音符，节拍！
+  - Choose pitch and beat which you like in load_pitch!
 - 在main函数里创作你的旋律和节奏！
+  - Create your melody in main!
 - 使用play函数选择你的音色并播放！
+  - Choose your instrument and play music by using function play!
 - 在其余文件里定制你的音色！
+  - Taylor your timbre in other file!
